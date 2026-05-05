@@ -53,14 +53,14 @@ public class BallScript : MonoBehaviour
         {
             Vector2 vel = new Vector2(0, BallRB.linearVelocity.y);
             //Ball movement via <- -> arrows
-            if (Input.GetKey(KeyCode.D))
+            if (Input.GetKey(KeyCode.S))
             {
                 vel.x = Bspeed;
                 BallRB.linearVelocity = vel;
                 //Debug.Log("yes");
             }
 
-            else if (Input.GetKey(KeyCode.S))
+            else if (Input.GetKey(KeyCode.A))
             {
                 vel.x = -Bspeed;
                 BallRB.linearVelocity = vel;
@@ -157,6 +157,7 @@ public class BallScript : MonoBehaviour
                     GameObject.Find("Score").GetComponent<ScoreScript>().Score += 100;
                     ColorWOn = false;
                     GameObject.Find("Paddle").GetComponent<PaddleScript>().PFreeze = false;
+                    BallRB.linearVelocity = new Vector2(0,Bspeed +10f); 
                 }
             }
             ///if (Screen.width > 211 || Screen.height > 132)

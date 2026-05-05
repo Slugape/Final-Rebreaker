@@ -6,7 +6,7 @@ public class RPickupScript : MonoBehaviour
     {
         if (other.name == "Breaker Ball")
         {
-            //Destroy(gameObject);
+            Destroy(gameObject);
             GameObject.Find("Breaker Ball").GetComponent<BallScript>().RocketOn  = true; 
             //Debug.Log(GameObject.Find("Breaker Ball").GetComponent<BallScript>().RocketOn);
         }

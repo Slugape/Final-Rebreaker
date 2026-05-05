@@ -12,7 +12,7 @@ public class HSV : MonoBehaviour
     {
         if (other.name == "Breaker Ball")
         {
-            //Destroy(gameObject);
+            Destroy(gameObject);
             GameObject.Find("Breaker Ball").GetComponent<BallScript>().ColorWOn  = true; 
             //Debug.Log(GameObject.Find("Breaker Ball").GetComponent<BallScript>().ColorWOn);
         }
