@@ -22,9 +22,10 @@ public class BallScript : MonoBehaviour
     //For ColorWheel
     public bool ColorWOn = false;
     public bool ColorWSpawn = false;
-    public GameObject BallColorW;
-    public GameObject ColorWPFB;
-    public GameObject ColorWFreeze;
+    //public GameObject BallColorW;
+    //public GameObject ColorWPFB;  (NOT IN USE)
+    // public GameObject ColorWFreeze;
+    
     //CW math items
     private float CWradius;
     private float angle;
@@ -109,11 +110,10 @@ public class BallScript : MonoBehaviour
         }
 
         //Instantiate ColorWheel
-      //  if (ColorWOn == true && ColorWSpawn == false)
+        //if (ColorWOn == true && ColorWSpawn == false)
         {
-           //     BallColorW = Instantiate(ColorWPFB, new Vector2(transform.position.x, transform.position.y + 1.5f),
-           //         Quaternion.identity);
-           //     ColorWSpawn = true;
+                //BallColorW = Instantiate(ColorWPFB, new Vector2(transform.position.x, transform.position.y + 1.5f), Quaternion.identity);
+                //ColorWSpawn = true;
                 //Debug.Log("CwSpawn");
         }
         
@@ -156,6 +156,8 @@ public class BallScript : MonoBehaviour
                     mClick.collider.gameObject.GetComponent<BrickScript>().BrickDestruction();
                     GameObject.Find("Score").GetComponent<ScoreScript>().Score += 100;
                     ColorWOn = false;
+                    //Destroy(BallColorW);  (NOT IN USE)
+                    //BallColorW = null; 
                     GameObject.Find("Paddle").GetComponent<PaddleScript>().PFreeze = false;
                     BallRB.linearVelocity = new Vector2(0,Bspeed +10f); 
                 }

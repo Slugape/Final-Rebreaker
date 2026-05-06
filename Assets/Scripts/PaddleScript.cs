@@ -44,5 +44,5 @@ public class PaddleScript : MonoBehaviour
                     PaddleT.position.z);
             }
         }
-    }
+    } 
 }
