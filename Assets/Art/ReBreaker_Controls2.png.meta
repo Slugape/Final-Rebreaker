@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: 783ad71605b584a8bbceb5e44883ae1e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -211685147382662179
+    second: ReBreaker_Controls2_0
+  - first:
+      213: 5231385194030728859
+    second: ReBreaker_Controls2_1
+  - first:
+      213: -4889572777918665496
+    second: ReBreaker_Controls2_2
+  - first:
+      213: -7386460957764696963
+    second: ReBreaker_Controls2_3
+  - first:
+      213: 8553084300282220056
+    second: ReBreaker_Controls2_4
+  - first:
+      213: 5850178431103666771
+    second: ReBreaker_Controls2_5
+  - first:
+      213: 8399737824617988215
+    second: ReBreaker_Controls2_6
+  - first:
+      213: -1254315206194549312
+    second: ReBreaker_Controls2_7
+  - first:
+      213: 6404624058264122313
+    second: ReBreaker_Controls2_8
+  - first:
+      213: -2332554320748901349
+    second: ReBreaker_Controls2_9
+  - first:
+      213: -5544207299567808049
+    second: ReBreaker_Controls2_10
+  - first:
+      213: -8853002396503552092
+    second: ReBreaker_Controls2_11
+  - first:
+      213: -4688998310094575723
+    second: ReBreaker_Controls2_12
+  - first:
+      213: 3719855882528058123
+    second: ReBreaker_Controls2_13
+  - first:
+      213: 8572788406748872977
+    second: ReBreaker_Controls2_14
+  - first:
+      213: -4419989142076575420
+    second: ReBreaker_Controls2_15
+  - first:
+      213: 1503195198989643026
+    second: ReBreaker_Controls2_16
+  - first:
+      213: 373236099496597027
+    second: ReBreaker_Controls2_17
+  - first:
+      213: 1780085368769227400
+    second: ReBreaker_Controls2_18
+  - first:
+      213: -6037931256197285399
+    second: ReBreaker_Controls2_19
+  - first:
+      213: 574586090288076659
+    second: ReBreaker_Controls2_20
+  - first:
+      213: -2217746960496317845
+    second: ReBreaker_Controls2_21
+  - first:
+      213: 8366110380982630569
+    second: ReBreaker_Controls2_22
+  - first:
+      213: -7852573527919703463
+    second: ReBreaker_Controls2_23
+  - first:
+      213: -459946217075235219
+    second: ReBreaker_Controls2_24
+  - first:
+      213: 1471364588460455858
+    second: ReBreaker_Controls2_25
+  - first:
+      213: -6583716940939344653
+    second: ReBreaker_Controls2_26
+  - first:
+      213: -8064153019040283457
+    second: ReBreaker_Controls2_27
+  - first:
+      213: -6306926429487335371
+    second: ReBreaker_Controls2_28
+  - first:
+      213: -8106107419716558430
+    second: ReBreaker_Controls2_29
+  - first:
+      213: -8738233725377810948
+    second: ReBreaker_Controls2_30
+  - first:
+      213: 7680055342491467153
+    second: ReBreaker_Controls2_31
+  - first:
+      213: -8498361634068626113
+    second: ReBreaker_Controls2_32
+  - first:
+      213: 2558855222382646989
+    second: ReBreaker_Controls2_33
+  - first:
+      213: -4536777410853030185
+    second: ReBreaker_Controls2_34
+  - first:
+      213: 2405398411437156673
+    second: ReBreaker_Controls2_35
+  - first:
+      213: -4683665728654993287
+    second: ReBreaker_Controls2_36
+  - first:
+      213: -907538022524010194
+    second: ReBreaker_Controls2_37
+  - first:
+      213: -5019097537818285888
+    second: ReBreaker_Controls2_38
+  - first:
+      213: 1019701480307505051
+    second: ReBreaker_Controls2_39
+  - first:
+      213: 9001880416118345087
+    second: ReBreaker_Controls2_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ReBreaker_Controls2_0
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 1541
+        width: 49
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbb702ea71ff0df0800000000000000
+      internalID: -211685147382662179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReBreaker_Controls2_1
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1544
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96807ded1d999840800000000000000
+      internalID: 5231385194030728859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReBreaker_Controls2_2
+      rect:
+        serializedVersion: 2
+        x: 1940
+        y: 1545
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ececbce67fb42cb0800000000000000
+      internalID: -4889572777918665496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReBreaker_Controls2_3
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 1543
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74c421e4e40e7990800000000000000
+      internalID: -7386460957764696963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReBreaker_Controls2_4
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 1542
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81eca4cdad8a2b670800000000000000
+      internalID: 8553084300282220056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReBreaker_Controls2_5
+      rect:
+        serializedVersion: 2
+        x: 2066
+        y: 1562
+        width: 33
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a069a9942003150800000000000000
+      internalID: 5850178431103666771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReBreaker_Controls2_6
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 1541
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77084ca3c0dd19470800000000000000
+      internalID: 8399737824617988215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReBreaker_Controls2_7
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 1514
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd276237f6c79ee0800000000000000
+      internalID: -1254315206194549312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReBreaker_Controls2_8
+      rect:
+        serializedVersion: 2
+        x: 2192
+        y: 1542
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3f0c8d5abc1e850800000000000000
+      internalID: 6404624058264122313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReBreaker_Controls2_9
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 1277
+        width: 65
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c8574243a11afd0800000000000000
+      internalID: -2332554320748901349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReBreaker_Controls2_10
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 1354
+        width: 69
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc11224e5d40f03b0800000000000000
+      internalID: -5544207299567808049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReBreaker_Controls2_11
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 1454
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4af49b0c931d32580800000000000000
+      internalID: -8853002396503552092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReBreaker_Controls2_12
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 1450
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597e76e51e45deeb0800000000000000
+      internalID: -4688998310094575723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReBreaker_Controls2_13
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 1329
+        width: 144
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0b6bbd67359f9330800000000000000
+      internalID: 3719855882528058123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReBreaker_Controls2_14
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 1338
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1118ad6a2a9a8f670800000000000000
+      internalID: 8572788406748872977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReBreaker_Controls2_15
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 1350
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441317b1b4b09a2c0800000000000000
+      internalID: -4419989142076575420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReBreaker_Controls2_16
+      rect:
+        serializedVersion: 2
+        x: 1828
+        y: 1191
+        width: 36
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21da9d7b11c6cd410800000000000000
+      internalID: 1503195198989643026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReBreaker_Controls2_17
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 1188
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326d8d741400e2500800000000000000
+      internalID: 373236099496597027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReBreaker_Controls2_18
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 1123
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a2c5b263224b810800000000000000
+      internalID: 1780085368769227400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReBreaker_Controls2_19
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 1152
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9f1284385f43ca0800000000000000
+      internalID: -6037931256197285399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReBreaker_Controls2_20
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 1130
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377508c310759f700800000000000000
+      internalID: 574586090288076659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReBreaker_Controls2_21
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 1125
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a2ae9b3eaf831e0800000000000000
+      internalID: -2217746960496317845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReBreaker_Controls2_22
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1124
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a87d22e0156a1470800000000000000
+      internalID: 8366110380982630569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReBreaker_Controls2_23
+      rect:
+        serializedVersion: 2
+        x: 1963
+        y: 1126
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ac5b72bfd060390800000000000000
+      internalID: -7852573527919703463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReBreaker_Controls2_24
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 1134
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66227b3a51fd99f0800000000000000
+      internalID: -459946217075235219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReBreaker_Controls2_25
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 1136
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b7364e2c465b6410800000000000000
+      internalID: 1471364588460455858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReBreaker_Controls2_26
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 1135
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4c6910350f1a4a0800000000000000
+      internalID: -6583716940939344653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReBreaker_Controls2_27
+      rect:
+        serializedVersion: 2
+        x: 2224
+        y: 1134
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4c5bd0e8f561090800000000000000
+      internalID: -8064153019040283457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReBreaker_Controls2_28
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 1136
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53872e1f3db4978a0800000000000000
+      internalID: -6306926429487335371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReBreaker_Controls2_29
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 1136
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1e2a0ff32518f80800000000000000
+      internalID: -8106107419716558430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReBreaker_Controls2_30
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 1113
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd648259be8bb680800000000000000
+      internalID: -8738233725377810948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReBreaker_Controls2_31
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 1125
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d7b80b4a9059a60800000000000000
+      internalID: 7680055342491467153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReBreaker_Controls2_32
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 1124
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35088cbe11cf0a80800000000000000
+      internalID: -8498361634068626113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReBreaker_Controls2_33
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 1126
+        width: 18
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc655c17441e28320800000000000000
+      internalID: 2558855222382646989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReBreaker_Controls2_34
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 1126
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6b6115bf02a01c0800000000000000
+      internalID: -4536777410853030185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReBreaker_Controls2_35
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 1078
+        width: 31
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14920016c11b16120800000000000000
+      internalID: 2405398411437156673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReBreaker_Controls2_36
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 1100
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97819dcb5d6400fb0800000000000000
+      internalID: -4683665728654993287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReBreaker_Controls2_37
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 1079
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21cb431af6c763f0800000000000000
+      internalID: -907538022524010194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReBreaker_Controls2_38
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 1081
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8ad45b165985ab0800000000000000
+      internalID: -5019097537818285888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReBreaker_Controls2_39
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 1081
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b973baef715b62e00800000000000000
+      internalID: 1019701480307505051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ReBreaker_Controls2_40
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 1079
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d87416b8a1dec70800000000000000
+      internalID: 9001880416118345087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      ReBreaker_Controls2_0: -211685147382662179
+      ReBreaker_Controls2_1: 5231385194030728859
+      ReBreaker_Controls2_10: -5544207299567808049
+      ReBreaker_Controls2_11: -8853002396503552092
+      ReBreaker_Controls2_12: -4688998310094575723
+      ReBreaker_Controls2_13: 3719855882528058123
+      ReBreaker_Controls2_14: 8572788406748872977
+      ReBreaker_Controls2_15: -4419989142076575420
+      ReBreaker_Controls2_16: 1503195198989643026
+      ReBreaker_Controls2_17: 373236099496597027
+      ReBreaker_Controls2_18: 1780085368769227400
+      ReBreaker_Controls2_19: -6037931256197285399
+      ReBreaker_Controls2_2: -4889572777918665496
+      ReBreaker_Controls2_20: 574586090288076659
+      ReBreaker_Controls2_21: -2217746960496317845
+      ReBreaker_Controls2_22: 8366110380982630569
+      ReBreaker_Controls2_23: -7852573527919703463
+      ReBreaker_Controls2_24: -459946217075235219
+      ReBreaker_Controls2_25: 1471364588460455858
+      ReBreaker_Controls2_26: -6583716940939344653
+      ReBreaker_Controls2_27: -8064153019040283457
+      ReBreaker_Controls2_28: -6306926429487335371
+      ReBreaker_Controls2_29: -8106107419716558430
+      ReBreaker_Controls2_3: -7386460957764696963
+      ReBreaker_Controls2_30: -8738233725377810948
+      ReBreaker_Controls2_31: 7680055342491467153
+      ReBreaker_Controls2_32: -8498361634068626113
+      ReBreaker_Controls2_33: 2558855222382646989
+      ReBreaker_Controls2_34: -4536777410853030185
+      ReBreaker_Controls2_35: 2405398411437156673
+      ReBreaker_Controls2_36: -4683665728654993287
+      ReBreaker_Controls2_37: -907538022524010194
+      ReBreaker_Controls2_38: -5019097537818285888
+      ReBreaker_Controls2_39: 1019701480307505051
+      ReBreaker_Controls2_4: 8553084300282220056
+      ReBreaker_Controls2_40: 9001880416118345087
+      ReBreaker_Controls2_5: 5850178431103666771
+      ReBreaker_Controls2_6: 8399737824617988215
+      ReBreaker_Controls2_7: -1254315206194549312
+      ReBreaker_Controls2_8: 6404624058264122313
+      ReBreaker_Controls2_9: -2332554320748901349
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

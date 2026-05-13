@@ -21,21 +21,21 @@ public class BrickScript : MonoBehaviour
         if (gameObject.tag == "Brick")
         {
             Destroy(gameObject);
-            GameObject.Find("Score").GetComponent<ScoreScript>().Score += 50;
-            Debug.Log(GameObject.Find("Score").GetComponent<ScoreScript>().Score);
+            ScoreScript.Score += 50;
+            Debug.Log(ScoreScript.Score);
         }
         if (gameObject.tag == "RBrick")
         {
             Destroy(gameObject);
-            GameObject.Find("Score").GetComponent<ScoreScript>().Score += 50;
-            Debug.Log(GameObject.Find("Score").GetComponent<ScoreScript>().Score);
+            ScoreScript.Score += 50;
+            Debug.Log(ScoreScript.Score);
             Instantiate(RocketPF, transform.position, Quaternion.identity);
         }
         if (gameObject.tag == "CWBrick")
         {
             Destroy(gameObject);
-            GameObject.Find("Score").GetComponent<ScoreScript>().Score += 50;
-            Debug.Log(GameObject.Find("Score").GetComponent<ScoreScript>().Score);
+            ScoreScript.Score += 50;
+            Debug.Log(ScoreScript.Score);
             Instantiate(ColorWPF, transform.position, Quaternion.identity);
         }
     }

@@ -33,7 +33,7 @@ public class RShotScript : MonoBehaviour
             {
                 Shothit.collider.gameObject.GetComponent<BrickScript>().BrickDestruction();
                 Destroy(gameObject);
-                GameObject.Find("Score").GetComponent<ScoreScript>().Score += 100;
+                ScoreScript.Score += 100;
                // Debug.Log("ray hit" + Shothit.collider.gameObject.name);
             }
         

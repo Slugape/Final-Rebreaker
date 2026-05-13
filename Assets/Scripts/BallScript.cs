@@ -1,8 +1,10 @@
 using Unity.Mathematics;
+using Unity.VectorGraphics;
 using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.Rendering;
+using UnityEngine.SceneManagement;
 
 public class BallScript : MonoBehaviour
 {
@@ -50,11 +52,18 @@ public class BallScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+             //Continue Screen to next level
+        BrickScript[] Bricks = FindObjectsByType<BrickScript>(FindObjectsSortMode.None);
+            if (Bricks.Length==0)
+            {
+                SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex +1);
+            }
+        
         if (ColorWOn == false)
         {
             Vector2 vel = new Vector2(0, BallRB.linearVelocity.y);
             //Ball movement via <- -> arrows
-            if (Input.GetKey(KeyCode.S))
+            if (Input.GetKey(KeyCode.D))
             {
                 vel.x = Bspeed;
                 BallRB.linearVelocity = vel;
@@ -116,7 +125,7 @@ public class BallScript : MonoBehaviour
                 //ColorWSpawn = true;
                 //Debug.Log("CwSpawn");
         }
-        
+        //colorwheel HSV to RGB color changer via mouse pos
         if (ColorWOn == true) 
         {
             BallRB.linearVelocity = Vector2.zero;
@@ -154,7 +163,7 @@ public class BallScript : MonoBehaviour
                 if (mClick.collider != null && mClick.collider.gameObject.GetComponent<BrickScript>())
                 {
                     mClick.collider.gameObject.GetComponent<BrickScript>().BrickDestruction();
-                    GameObject.Find("Score").GetComponent<ScoreScript>().Score += 100;
+                    ScoreScript.Score+= 100;
                     ColorWOn = false;
                     //Destroy(BallColorW);  (NOT IN USE)
                     //BallColorW = null; 
