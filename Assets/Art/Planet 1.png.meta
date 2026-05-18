@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 9b09f0d64d2784636bd758224f83a1d6
+guid: 9db635d8dcd564e36a793890efef4df1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 8246971847094838054
-    second: bcg2@0,25x copy_0
+      213: -330176517267235536
+    second: Planet 1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: bcg2@0,25x copy_0
+      name: Planet 1_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 103
-        height: 109
+        x: 813
+        y: 564
+        width: 1106
+        height: 1092
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6232cba5331237270800000000000000
-      internalID: 8246971847094838054
+      spriteID: 03d5c17f43afa6bf0800000000000000
+      internalID: -330176517267235536
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      bcg2@0,25x copy_0: 8246971847094838054
+      Planet 1_0: -330176517267235536
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

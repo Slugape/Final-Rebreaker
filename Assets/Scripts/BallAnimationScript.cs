@@ -77,6 +77,7 @@ public class BallAnimationScript : MonoBehaviour
             {
                 SpaceCounter = 5;
             }
+            SpaceTimer = 0f;
             BallSpriteSheet.sprite = BallAnim[SpaceCounter];
         }
 
