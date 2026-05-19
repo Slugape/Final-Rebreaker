@@ -190,7 +190,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3882812178359952446, guid: 891ce0651fd9c4276830068931b3a869, type: 3}
       propertyPath: m_SortingOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -388,7 +388,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7783345129078561259, guid: 75a6ea2284b8c4c4f9d2ea12d953998d, type: 3}
       propertyPath: m_SortingOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 8147431809045462023, guid: 75a6ea2284b8c4c4f9d2ea12d953998d, type: 3}
       propertyPath: m_Name
@@ -465,7 +465,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8714972030963136001, guid: 7706928f4f0e248879f85af21c818958, type: 3}
       propertyPath: m_SortingOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -482,7 +482,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2799792263130350490, guid: 7452a0cacd1084a40a9c1bfae852635a, type: 3}
       propertyPath: m_SortingOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7706364716692853409, guid: 7452a0cacd1084a40a9c1bfae852635a, type: 3}
       propertyPath: m_Name
@@ -555,7 +555,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 3854835760063772765, guid: 08e7cd5a20549407e9d9fd0ca06c0ae2, type: 3}
       propertyPath: m_SortingOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 5248086852691073398, guid: 08e7cd5a20549407e9d9fd0ca06c0ae2, type: 3}
       propertyPath: m_LocalScale.x
@@ -633,7 +633,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 4678869871623244774, guid: be2f5fb14b01c424ea34e85474779f29, type: 3}
       propertyPath: m_SortingOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 6021361382356382603, guid: be2f5fb14b01c424ea34e85474779f29, type: 3}
       propertyPath: m_Name
@@ -1149,7 +1149,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3630726832148989553, guid: 8cd5fa7e2681a43db9004488bc957fb8, type: 3}
       propertyPath: m_SortingOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1222,7 +1222,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 2
+  m_SortingOrder: 3
   m_MaskInteraction: 0
   m_Sprite: {fileID: 8617311718619965427, guid: b6d7fd98c84e04f079ef5480695ae5d7, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -1296,7 +1296,7 @@ ParticleSystemRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 2
   m_MaskInteraction: 0
   m_RenderMode: 0
   m_MeshDistribution: 0
@@ -6367,7 +6367,7 @@ ParticleSystemRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 2
+  m_SortingOrder: 3
   m_MaskInteraction: 0
   m_RenderMode: 0
   m_MeshDistribution: 0
@@ -11138,7 +11138,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 2158458002377064710, guid: 20c647ce486bd4c22b3a6dec798d2a78, type: 3}
       propertyPath: m_SortingOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4876948655017377738, guid: 20c647ce486bd4c22b3a6dec798d2a78, type: 3}
       propertyPath: m_Name
@@ -11220,7 +11220,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3320775548059470580, guid: cea4c87127b2b4ac79e282aea1219a20, type: 3}
       propertyPath: m_SortingOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 5957003185182654845, guid: cea4c87127b2b4ac79e282aea1219a20, type: 3}
       propertyPath: m_LocalScale.x
@@ -11340,7 +11340,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3142488288062256837, guid: 55c7a80ae40d74484816d1c2868f2637, type: 3}
       propertyPath: m_SortingOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 5883040837185741251, guid: 55c7a80ae40d74484816d1c2868f2637, type: 3}
       propertyPath: m_LocalScale.x
@@ -11475,7 +11475,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4852382155199177263, guid: 8a3f6b9c17b8346578015f1e0af194b5, type: 3}
       propertyPath: m_SortingOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11496,7 +11496,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2077414200581293564, guid: b1eb8779b6004497190e53738a77e7c9, type: 3}
       propertyPath: m_SortingOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 8156309372475179751, guid: b1eb8779b6004497190e53738a77e7c9, type: 3}
       propertyPath: m_LocalScale.x
@@ -11570,7 +11570,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 626104365091854126, guid: c74c4271f90e642a7ba6c55595715f34, type: 3}
       propertyPath: m_SortingOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 1542830435346865820, guid: c74c4271f90e642a7ba6c55595715f34, type: 3}
       propertyPath: m_Name
@@ -11932,7 +11932,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6250175751768864852, guid: a8b34593e18354ad0b66886d5f34718d, type: 3}
       propertyPath: m_SortingOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 9147775709078791918, guid: a8b34593e18354ad0b66886d5f34718d, type: 3}
       propertyPath: m_LocalScale.x
